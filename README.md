@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# FinancerAI
+
+# https://financer-ai-new.vercel.app/
+
+FinancerAI is a web application designed to provide users with comprehensive financial insights, including revenue and expenses analysis, profit and revenue tracking, and detailed breakdowns of operational versus non-operational expenses.
+
+## Features
+
+- **Revenue and Expenses Analysis**: Gain a clear understanding of your financial health by analyzing your income and expenditures.
+- **Profit and Revenue Tracking**: Monitor your profitability and revenue streams to make informed financial decisions.
+- **Monthly Revenue Breakdown**: View your revenue on a month-by-month basis to identify trends and patterns.
+- **Operational vs. Non-Operational Expenses**: Distinguish between your core operational costs and other expenses to better manage your budget.
+
 ## Getting Started
 
 First, run the development server:
